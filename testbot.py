@@ -1,6 +1,6 @@
 import wolframalpha 
 
-client = wolframalpha.Client('TQEPQQ-G68H4RU9U3')
+client = wolframalpha.Client('APPID')
 
 
 while True:
